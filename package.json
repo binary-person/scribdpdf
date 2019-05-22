@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "homepage": "https://github.com/scheng123/scribdpdf"
+  "homepage": "https://github.com/scheng123/scribdpdf",
   "author": "Simon Cheng",
   "license": "ISC",
   "dependencies": {
